@@ -9,6 +9,6 @@ function entrar(){
       area.innerHTML = 'Área de Membros ';
   }
   else{
-    console.log('Login Incorreto');
+    alert('Login Incorreto, tente novamente.');
   }
 }
